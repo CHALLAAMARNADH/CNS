@@ -1,0 +1,56 @@
+/* caesarcipher.css */
+
+.caesar-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .caesar-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .caesar-input-container {
+    margin-bottom: 15px;
+  }
+  
+  .caesar-label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  .caesar-input {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .caesar-button {
+    background-color:blue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+
+  
+  .caesar-result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+  }
+  
