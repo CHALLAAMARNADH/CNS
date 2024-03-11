@@ -49,7 +49,7 @@ const PolyalphabeticCipher = () => {
       </div>
 
       <button onClick={encryptPolyalphabetic} className="polyalphabetic-button">
-        Submit
+        Encrypt
       </button>
 
       <div className="polyalphabetic-result">
