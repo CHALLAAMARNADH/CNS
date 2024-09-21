@@ -1,0 +1,53 @@
+.content {
+    margin: 2rem;
+}
+.Crypt {
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+.Crypt1 {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.encrypt {
+    margin: 3rem;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+.dropdown {
+    float: right;
+    margin: 0.5rem;
+}
+.container {
+    display: flex;
+    justify-content: space-evenly;
+ /* Use flexbox to align items */
+ flex-wrap:wrap ;
+  }
+  .paraContainer{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin: 1rem;
+  }
+  .para {
+    font-size:2rem;
+    font-weight: bold;
+  }
+.division {
+    width: 35%; /* Each division takes up half of the container */
+    padding: 20px; /* Add some padding for spacing */
+    box-sizing: border-box; /* Include padding in width calculation */
+    background-color: rgb(164, 164, 164);
+    margin:  3rem 3rem;
+    border: none;
+    border-radius: 1rem;
+    text-align: center;
+  }
+  .division input {
+    padding: 0.2rem;
+    border: none;
+    border-radius: 0.3rem;
+  }
