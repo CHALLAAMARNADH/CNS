@@ -314,7 +314,7 @@ const Encryption = () => {
   return (
     <div className='encrypt'>
         <div style={{display:'flex',justifyContent:"space-between"}}>
-      <div className='Crypt'>Encryption and Decryption of Cryptogrphic Algorithms</div>
+      <div className='Crypt'>Cryptogrphic Algorithms</div>
       <div className='dropdown'>
       <Dropdown
         menu={{
